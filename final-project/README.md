@@ -1,9 +1,14 @@
 # APP idea
 
 A daily-planner app that promotes self-care and encourages rest time.
+
 Have you ever felt stressed just thinking about all the tasks you've planned for yourself today?
 Most planner apps focus on producticity. And most self-care apps encourage rest time. What if there's an app that does both?
-By giving compliments on completing every task, encouraging self-care time, planning your day can be more rewarding and less stressful.
+By giving humurous compliments on completing every task, encouraging self-care time minus the annoying positivity outlook bullsh$t, planning your day can be more rewarding, fun, and less stressful.
+
+# Goal
+
+The goal of this project is essentially creating an app that I want to use myself!
 
 # List of feature ideas
 
@@ -31,4 +36,4 @@ By giving compliments on completing every task, encouraging self-care time, plan
 
 # Wireframes, sketches, or screen designs
 
-Coming soon.
+Coming soon on Sep 23.
