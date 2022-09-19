@@ -5,7 +5,7 @@ Have you ever felt stressed just thinking about all the tasks you've planned for
 Most planner apps focus on producticity. And most self-care apps encourage rest time. What if there's an app that does both?
 By giving compliments on completing every task, encouraging self-care time, planning your day can be more rewarding and less stressful.
 
-# Make a list of feature ideas
+# List of feature ideas
 
 - Inputting tasks with simplicity and ease.
 - Categorizing tasks with colors.
@@ -15,15 +15,7 @@ By giving compliments on completing every task, encouraging self-care time, plan
 - End-of-day check-in with how users felt about their day, and using that data for future suggestions of the amount of rest time.
 - Sharing your daily plan with friends and family, so they can be a source of support too.
 
-# Identify any special APIs you will need to implement my app
-
-- Notifications
-
-# Outline of main screens in my app
-
-Coming soon.
-
-# List of screens, with descriptions of the screen types
+# List of screens
 
 - Introduction page.
 - Daily look of planning.
@@ -32,6 +24,10 @@ Coming soon.
 - Self-care suggestions page.
 - End-of-day compliment and check-in page.
 - Plan sharing screen.
+
+# APIs needed
+
+- Notifications
 
 # Wireframes, sketches, or screen designs
 
