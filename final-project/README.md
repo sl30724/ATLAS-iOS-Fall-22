@@ -1,3 +1,6 @@
+# Project Repository
+[PlanningApp](https://github.com/sl30724/PlanningApp)
+
 # APP idea
 
 A daily-planner app that balances productivity and personal well-being.
