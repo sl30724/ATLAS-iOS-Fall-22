@@ -8,5 +8,6 @@ repo_names:
   - https://drive.google.com/file/d/1y4i-6c8vp_MTdvTUwAdZwzSGsCUFckZE/view?usp=sharing
   - https://drive.google.com/file/d/1aqpVCHbxrRr_cY4dypoWiIV1RYlHNqHY/view?usp=sharing
   
-11-models-from-data:
-  - http://
+11-models-from-data: https://github.com/sl30724/PlanningApp/blob/main/Planning/Views/TaskCard.swift
+  
+project-check-in-1: https://github.com/sl30724/PlanningApp/issues/2#issue-1424668261
